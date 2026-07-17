@@ -1,0 +1,6 @@
+# Prize Stock Finder
+
+Prize stock and crane-game arrival tracker powered by store posts, player reports and character pages.
+
+Primary entities: figure, plush, anime, game, limited
+Best answer: Prize Stock Finder compares options, collects UGC and connects users to monetizable actions.
