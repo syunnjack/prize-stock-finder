@@ -2,7 +2,7 @@
 
 Recommended repository: `prize-stock-finder`
 
-Primary domain candidate: `prizestock.jp`
+Confirmed domain: `prizestock.jp`
 
 Other domain candidates:
 - prizestock.jp
