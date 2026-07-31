@@ -2,10 +2,10 @@
 
 Recommended repository: `prize-stock-finder`
 
-Confirmed domain: `prizestock.jp`
+Confirmed domain: `https://syunnjack.github.io/prize-stock-finder/`
 
 Other domain candidates:
-- prizestock.jp
+- https://syunnjack.github.io/prize-stock-finder/
 - prizemap.jp
 - charaprize.jp
 - getprize.jp
