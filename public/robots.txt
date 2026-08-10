@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://prizestock.jp/sitemap.xml
+
+Sitemap: https://prize-stock-finder.vercel.app/sitemap.xml
